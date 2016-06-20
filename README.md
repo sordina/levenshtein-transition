@@ -19,8 +19,8 @@ Transition a jQuery collection from its initial texts, to a target piece of text
 
 ### Example
 
-		$('.transition').levenshteinTransition(
-				{targetPhrase: "New-Phrase"})
+	$('.transition').levenshteinTransition(
+			{targetPhrase: "New-Phrase"})
 
 ## levenshteinTransitions
 
@@ -39,5 +39,5 @@ targetPhrase and callback.
 
 ### Example
 
-		$('.transitions').levenshteinTransitions(
-				{delay: 1000, targetPhrases: ["New-Phrase 1", "New-Phrase 2"]})
+	$('.transitions').levenshteinTransitions(
+			{delay: 1000, targetPhrases: ["New-Phrase 1", "New-Phrase 2"]})
