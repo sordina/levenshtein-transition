@@ -6,6 +6,8 @@ Two jQuery functions:
 * levenshteinTransition
 * levenshteinTransitions
 
+[JS-Fiddle Demo](https://jsfiddle.net/kdqost0z/2/)
+
 ## levenshteinTransition
 
 Transition a jQuery collection from its initial texts, to a target piece of text.
